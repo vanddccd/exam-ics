@@ -1,17 +1,25 @@
 # 考试日历订阅源
 
-本仓库只存放 .ics 日历文件，供日历客户端订阅。硬节点日期与链接来源见文件内备注。
+本仓库只存放 .ics 日历文件。硬节点日期与链接来源见文件内备注。
 
-## 订阅方式（iPhone / iPad）
+## 给买家的订阅步骤（iPhone / iPad）
+
+**不要在 Safari 或微信里直接点链接** —— 那是「导入」，几十条日程会变成混进现有日历的独立事件，想删只能一条条删。
+
+正确做法是在「日历」App 里添加「订阅日历」，会生成一个独立日历，**一键就能取消订阅**：
 
 1. 复制下面的链接
-2. **在 Safari 或「备忘录」里打开**（微信内置浏览器打不开，必须换 Safari）
-3. 系统会弹出「订阅日历」→ 输入名称、**选一个颜色** → 账户选 iCloud → 完成
+2. 打开「日历」App
+3. 点「日历」→「添加日历」→「添加订阅日历」
+4. 粘贴网址 → 点「查找」
+5. 起个名字、**选一个颜色** → 账户选 iCloud → 完成
 
-## 可用日历
+参考 Apple 官方文档：https://support.apple.com/zh-cn/102301
 
-- 90天全程版：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics@main/cet-full.ics
-- 30天急救版：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics@main/cet-sprint.ics
+## 链接
+
+- 90天全程版：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-full.ics
+- 30天急救版：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-sprint.ics
 
 ## 更新
 
