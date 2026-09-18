@@ -20,6 +20,6 @@
 
 ## 当前版本
 
-- 10月全程版（10/1 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-full-e51febb4.ics
-- 考前4周急救版（11/16 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-sprint-9a0359d4.ics
+- 10月全程版（10/1 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-full-.ics
+- 考前4周急救版（11/16 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-sprint-.ics
 
