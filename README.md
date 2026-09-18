@@ -2,7 +2,7 @@
 
 本仓库只存放 .ics 日历文件。硬节点日期与链接来源见文件内备注。
 
-文件名里的 8 位十六进制是内容指纹，内容一变文件名就变 —— 这样的链接不会命中旧缓存。
+文件名里的 8 位十六进制是这个日历的固定 ID，**不会变** —— 所以你的订阅链接长期有效，内容有更新也会自动同步。ID 表见 `fingerprints.txt`。
 
 ## 给买家的订阅步骤（iPhone / iPad）
 
@@ -18,7 +18,7 @@
 
 参考 Apple 官方文档：https://support.apple.com/zh-cn/102301
 
-## 当前版本
+## 可用日历
 
 - 10月全程版（10/1 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-full-a3853292.ics
 - 考前4周急救版（11/16 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-sprint-90867f68.ics

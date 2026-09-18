@@ -1,0 +1,2 @@
+cet-full.ics=cet-full-a3853292.ics
+cet-sprint.ics=cet-sprint-90867f68.ics
