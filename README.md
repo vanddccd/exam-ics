@@ -2,6 +2,8 @@
 
 本仓库只存放 .ics 日历文件。硬节点日期与链接来源见文件内备注。
 
+文件名里的 8 位十六进制是内容指纹，内容一变文件名就变 —— 这样的链接不会命中旧缓存。
+
 ## 给买家的订阅步骤（iPhone / iPad）
 
 **不要在 Safari 或微信里直接点链接** —— 那是「导入」，几十条日程会变成混进现有日历的独立事件，想删只能一条条删。
@@ -16,11 +18,8 @@
 
 参考 Apple 官方文档：https://support.apple.com/zh-cn/102301
 
-## 链接
+## 当前版本
 
-- 90天全程版：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-full.ics
-- 30天急救版：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-sprint.ics
+- 10月全程版（10/1 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-full-512d1d90.ics
+- 考前4周急救版（11/16 - 12/12）：https://cdn.jsdelivr.net/gh/vanddccd/exam-ics/cet-sprint-59bc921a.ics
 
-## 更新
-
-重新发布后链接不变，订阅者会自动同步到新内容。
